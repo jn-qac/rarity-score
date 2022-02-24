@@ -1,0 +1,32 @@
+[
+  {
+    "BACKGROUND": "1649",
+    "BODY": "white",
+    "SPOTS": "FTM",
+    "NIPS": "pinknips",
+    "EYES": "human_eyes",
+    "SHOES": "blueshoes",
+    "HATS": "whitebeanie",
+    "id": 1
+  },
+  {
+    "BACKGROUND": "galaxy1",
+    "BODY": "white",
+    "SPOTS": "logos",
+    "NIPS": "green",
+    "EYES": "human_eyes",
+    "SHOES": "coyboyboots",
+    "HATS": "spacehat",
+    "id": 2
+  },
+  {
+    "BACKGROUND": "space1",
+    "BODY": "white",
+    "SPOTS": "logos",
+    "NIPS": "pinknips",
+    "EYES": "eyes",
+    "SHOES": "blueshoes",
+    "HATS": "cowboyhat",
+    "id": 3
+  }
+]
